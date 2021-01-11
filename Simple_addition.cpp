@@ -13,5 +13,5 @@ int main() {
 
     sum = a + b;
 
-    cout<<"Sum = "<<sum<<endl;
+    cout<<"Sum =  "<<sum<<endl;
 }
